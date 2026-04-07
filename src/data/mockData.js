@@ -2,17 +2,17 @@
 
 export const cityPriceData = [
   { month: 'Jan', NewYork: 10950, London: 9850, Dubai: 6250, Singapore: 9180, Sydney: 7420, Toronto: 6880 },
-  { month: 'Feb', NewYork: 11040, London: 9920, Dubai: 6310, Singapore: 9240, Sydney: 7480, Toronto: 6930 },
-  { month: 'Mar', NewYork: 11120, London: 9990, Dubai: 6370, Singapore: 9310, Sydney: 7540, Toronto: 6990 },
-  { month: 'Apr', NewYork: 11200, London: 10070, Dubai: 6440, Singapore: 9380, Sydney: 7610, Toronto: 7050 },
-  { month: 'May', NewYork: 11320, London: 10160, Dubai: 6510, Singapore: 9460, Sydney: 7680, Toronto: 7110 },
-  { month: 'Jun', NewYork: 11410, London: 10240, Dubai: 6580, Singapore: 9540, Sydney: 7750, Toronto: 7180 },
-  { month: 'Jul', NewYork: 11380, London: 10210, Dubai: 6540, Singapore: 9520, Sydney: 7720, Toronto: 7150 },
-  { month: 'Aug', NewYork: 11490, London: 10320, Dubai: 6620, Singapore: 9600, Sydney: 7800, Toronto: 7230 },
-  { month: 'Sep', NewYork: 11580, London: 10410, Dubai: 6680, Singapore: 9680, Sydney: 7870, Toronto: 7290 },
-  { month: 'Oct', NewYork: 11640, London: 10490, Dubai: 6750, Singapore: 9740, Sydney: 7930, Toronto: 7350 },
-  { month: 'Nov', NewYork: 11720, London: 10560, Dubai: 6810, Singapore: 9800, Sydney: 7990, Toronto: 7410 },
-  { month: 'Dec', NewYork: 11820, London: 10640, Dubai: 6880, Singapore: 9880, Sydney: 8060, Toronto: 7480 },
+  { month: 'Feb', NewYork: 10890, London: 9915, Dubai: 6325, Singapore: 9245, Sydney: 7470, Toronto: 6940 },
+  { month: 'Mar', NewYork: 11070, London: 9970, Dubai: 6290, Singapore: 9210, Sydney: 7445, Toronto: 6915 },
+  { month: 'Apr', NewYork: 11010, London: 9940, Dubai: 6405, Singapore: 9350, Sydney: 7580, Toronto: 7025 },
+  { month: 'May', NewYork: 11240, London: 10080, Dubai: 6480, Singapore: 9435, Sydney: 7640, Toronto: 7095 },
+  { month: 'Jun', NewYork: 11160, London: 10140, Dubai: 6520, Singapore: 9490, Sydney: 7705, Toronto: 7140 },
+  { month: 'Jul', NewYork: 11390, London: 10090, Dubai: 6475, Singapore: 9450, Sydney: 7660, Toronto: 7100 },
+  { month: 'Aug', NewYork: 11280, London: 10230, Dubai: 6600, Singapore: 9575, Sydney: 7780, Toronto: 7210 },
+  { month: 'Sep', NewYork: 11520, London: 10310, Dubai: 6665, Singapore: 9650, Sydney: 7835, Toronto: 7265 },
+  { month: 'Oct', NewYork: 11460, London: 10370, Dubai: 6710, Singapore: 9705, Sydney: 7905, Toronto: 7315 },
+  { month: 'Nov', NewYork: 11690, London: 10450, Dubai: 6770, Singapore: 9760, Sydney: 7960, Toronto: 7380 },
+  { month: 'Dec', NewYork: 11740, London: 10520, Dubai: 6845, Singapore: 9835, Sydney: 8040, Toronto: 7445 },
 ];
 
 export const salesVolumeData = [
